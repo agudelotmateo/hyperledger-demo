@@ -22,7 +22,7 @@ The blockchain is specified using Hyperledger Composer and the deployment runs o
 
 
 ### Development tools
-Like we already mentioned, we need (mainly) Hyperledger Composer and Fabric. The [official documentation](https://hyperledger.github.io/composer/latest/installing/development-tools.html) suggest some additional tools. Here's the full list:
+Like we already mentioned, we need (mainly) Hyperledger Composer and Fabric. The [official documentation](https://hyperledger.github.io/composer/latest/installing/development-tools.html) suggests some additional tools. Here's the full list:
 
 ##### Hyperledger Composer
 - Composer CLI v0.20
@@ -77,7 +77,7 @@ After this we can:
 Notice that this will require you to generate a PeerAdmin card again the next time you want to use a newly started runtime
 
 ```
-~/fabric-dev-servers/startFabric.sh
+~/fabric-dev-servers/teardownFabric.sh
 ```
 
 ### Sample Business Network deployed on Blockchain
