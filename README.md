@@ -1,5 +1,7 @@
 # Hyperledger Demo
-Here we demonstrate the usage of tools from the Hyperledger project in building a blockchain-based energy trading system.
+Here we demonstrate the usage of tools from the Hyperledger project in building a blockchain-based energy trading system. It consists of a back end running on a blockchain (Hyperledger Fabric) and exposed through a REST API, and a blockchain manager written using Angular that is an example of front end. Here's what it kind of looks like:
+
+![Back and front end screenshot](Screenshot.png)
 
 
 ### Pre-requisites
